@@ -9,8 +9,8 @@ redirect_from:
 
 I am a CS PhD candidate at the University of Illinois at Urbana-Champaign (UIUC) advised by Prof. [Arindam Banerjee](https://arindam.cs.illinois.edu/). I also obtained Master of Science Computer Science degree at UIUC. My reseach interests lie in machine learning optimization, with focus on algorithmic efficiency and parameter geometry in large language models (LLMs). My research works aim to explain:
 
-- How optimization algorithms excel in modern deep learning while achieving superior efficiency.
-- How the geometry of LLMs facilitates unique weight space manipulating algorithms including task arithmetic and model merging.
+- How modern optimization algorithms drive deep learning advancements while maintaining superior efficiency.
+- How the underlying geometry of LLMs empowers unique weight space manipulation techniques such as task arithmetic and model merging.
 
 I am also broadly interested in novel machine learning optimization (SAM, Shampoo variants) and their applications in LLMs.
 
